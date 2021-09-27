@@ -45,6 +45,15 @@ paths:
             type: number
             format: float
           example: "-122.037593"
+          
+        - name: xyz
+          in: query
+          description: "Longitude in decimal degrees."
+          required: true
+          schema:
+            type: number
+            format: float
+          example: "-122.037593"
 
         - name: date
           in: query
