@@ -1,7 +1,7 @@
 {
     "policy": {
         "name": "WAF_sunrise-api",
-        "description": "Arcadia API",
+        "description": "Sunrise-Sunset API",
         "template": {
             "name": "POLICY_TEMPLATE_API_SECURITY"
         },
